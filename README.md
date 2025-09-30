@@ -98,7 +98,6 @@ The core innovation is an **AI NFT marketplace** where datasets are minted as NF
 
 ## 📬 Contact
 
-* GitHub: [@SecretariatV](https://github.com/SecretariatV)
-* Email: [oliver.b25.f@gmail.com](mailto:oliver.b25.f@gmail.com)
-* Telegram: [@ares\_orb](https://t.me/ares_orb)
-* Twitter (X): [@OVB\_Coder](https://x.com/OVB_Coder)
+* GitHub: [@TERA](https://github.com/TERA-star)
+* Telegram: [manchatz](https://t.me/manchatz)
+* Twitter (X): [Sven.dev](https://x.com/@EleazarTlapala)
